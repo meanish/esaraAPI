@@ -1,0 +1,33 @@
+[
+    {
+        "name": "iphone x",
+        "company": "apple",
+        "price": 6000000,
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "featured": true
+    },
+    {
+        "name": "samsung s20",
+        "company": "samsung",
+        "price": 5000000,
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "shipping": true
+    },
+    {
+        "name": "Dell Series",
+        "company": "dell",
+        "price": 600000,
+        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "laptop"
+    },
+    {
+        "name": "Nokia 420",
+        "company": "nokia",
+        "price": 12599,
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "shipping": true
+    }
+]
